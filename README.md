@@ -3,8 +3,8 @@
 ## 關於唯客學院：
 
 * [唯客學院網址](https://www.vcdemy.com)
-* [唯客學院部落格](https://victorgau.com/blog/)
-* [高雄Python學院粉絲團](https://www.facebook.com/vcdemy/)
+* [唯客學院粉絲團](https://www.facebook.com/vcdemy/)
+* [唯客學院免費影片](https://www.youtube.com/channel/UCh_cb80HJ1GTpYXQ1jYApAg)
 
 ## 課程內容：
 
